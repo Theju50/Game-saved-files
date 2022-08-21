@@ -1,0 +1,1261 @@
+22:16:11:310 (00003020) > [Startup] Marvel's Spider-Man Remastered
+22:16:11:310 (00003020) > [Startup] ==============
+22:16:11:310 (00003020) > [Startup] 
+22:16:11:310 (00003020) > [Startup] Build: v1.812.1.0
+22:16:11:310 (00003020) > [Startup] Windows 10.0 (build 19044)
+22:16:11:310 (00003020) > [Startup] Game directory: C:\Users\<username>\Documents\Marvel's Spider-Man Remastered\
+22:16:11:310 (00003020) > [Startup] 
+22:16:11:310 (00003020) > [Startup] Memory statistics:
+22:16:11:310 (00003020) > [Startup]   Total RAM = 7.4 GB (7541 MB)
+22:16:11:310 (00003020) > [Startup]   Avail RAM = 5.6 GB (5725 MB)
+22:16:11:310 (00003020) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+22:16:11:310 (00003020) > [Startup]   Avail virtual memory = 131062.7 GB (134208172 MB)
+22:16:11:310 (00003020) > [Startup]   Total page file = 18.4 GB (18805 MB)
+22:16:11:310 (00003020) > [Startup]   Avail page file = 10.5 GB (10707 MB)
+22:16:11:310 (00003020) > [Startup] 
+22:16:11:310 (00003020) > [NxApp] PreInit
+22:16:11:311 (00003020) > [SwapChain] Initializing...
+22:16:11:311 (00003020) > [DXGI] Initializing...
+22:16:11:318 (00003020) > [DXGI] Successfully initialized.
+22:16:11:318 (00003020) > [Render] Enumerating adapters:
+22:16:11:318 (00003020) > [Render] 	Adapter 0:
+22:16:11:318 (00003020) > [Monitor] 		Description             : NVIDIA GeForce GTX 1650 Ti
+22:16:11:318 (00003020) > [Monitor] 		Vendor                  : nVidia (10de)
+22:16:11:318 (00003020) > [Monitor] 		Device                  : 1f95
+22:16:11:318 (00003020) > [Monitor] 		Sub system              : 87b2103c
+22:16:11:318 (00003020) > [Monitor] 		Revision                : 161
+22:16:11:318 (00003020) > [Monitor] 		Dedicated Video Memory  : 3962 MB
+22:16:11:318 (00003020) > [Monitor] 		Dedicated System Memory : 0000 MB
+22:16:11:318 (00003020) > [Monitor] 		Shared System Memory    : 3770 MB
+22:16:11:318 (00003020) > [Monitor] 
+22:16:11:318 (00003020) > [Render] Loading NVAPI...
+22:16:11:322 (00003020) > [Render] Done loading NVAPI
+22:16:11:322 (00003020) > [Render] 	Adapter 1:
+22:16:11:322 (00003020) > [Monitor] 		Description             : AMD Radeon(TM) Graphics
+22:16:11:322 (00003020) > [Monitor] 		Vendor                  : AMD (1002)
+22:16:11:322 (00003020) > [Monitor] 		Device                  : 1636
+22:16:11:322 (00003020) > [Monitor] 		Sub system              : 87b2103c
+22:16:11:322 (00003020) > [Monitor] 		Revision                : 199
+22:16:11:322 (00003020) > [Monitor] 		Dedicated Video Memory  : 0495 MB
+22:16:11:322 (00003020) > [Monitor] 		Dedicated System Memory : 0000 MB
+22:16:11:322 (00003020) > [Monitor] 		Shared System Memory    : 3770 MB
+22:16:11:322 (00003020) > [Monitor] 
+22:16:11:322 (00003020) > [Render] Loading ADL...
+22:16:11:343 (00003020) > [Render] AGS init succeeded
+22:16:11:343 (00003020) > [Render] AGS Radeon Software Version: 22.7.1
+22:16:11:343 (00003020) > [Render] Done loading ADL and AGS
+22:16:11:343 (00003020) > [Render] 	Adapter 2:
+22:16:11:343 (00003020) > [Monitor] 		Description             : Microsoft Basic Render Driver
+22:16:11:343 (00003020) > [Monitor] 		Vendor                  : Unknown (1414)
+22:16:11:343 (00003020) > [Monitor] 		Device                  : 8c
+22:16:11:343 (00003020) > [Monitor] 		Sub system              : 0
+22:16:11:343 (00003020) > [Monitor] 		Revision                : 0
+22:16:11:343 (00003020) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+22:16:11:343 (00003020) > [Monitor] 		Dedicated System Memory : 0000 MB
+22:16:11:343 (00003020) > [Monitor] 		Shared System Memory    : 3770 MB
+22:16:11:343 (00003020) > [Monitor] 
+22:16:11:343 (00003020) > [Render] Enumerating monitors:
+22:16:11:343 (00003020) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+22:16:11:343 (00003020) > [Render] 
+22:16:11:343 (00003020) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+22:16:11:343 (00003020) > [SwapChain] Successfully initialized.
+22:16:11:343 (00003020) > [Render] Enumerating Display Modes:
+22:16:11:343 (00003020) > [Render] Querying ADL for Eyefinity modes
+22:16:11:346 (00003020) > [Render] Querying NVAPI for Surround modes
+22:16:11:346 (00003020) > [Render] NvAPI_DISP_GetGDIPrimaryDisplayId returned NVAPI_NVIDIA_DEVICE_NOT_FOUND (fffffffa)
+
+22:16:11:346 (00003020) > [Render] 	Monitor '1 (NVIDIA GeForce GTX 1650 Ti(1))' (0000000000010001):
+22:16:11:346 (00003020) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode  2 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode  3 :  800 x  600 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode  5 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode  6 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode  7 : 1024 x  768 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode  8 : 1128 x  634 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode  9 : 1128 x  634 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 10 : 1128 x  634 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 11 : 1128 x  634 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 12 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 13 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 14 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 15 : 1280 x  720 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 16 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 17 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 18 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 19 : 1280 x 1024 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 20 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 21 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 22 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 23 : 1366 x  768 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 24 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 25 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 26 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 27 : 1600 x  900 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 28 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 29 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 30 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 31 : 1680 x 1050 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 32 : 1760 x  990 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 33 : 1760 x  990 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 34 : 1760 x  990 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 35 : 1760 x  990 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 36 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] 		- Mode 37 : 1920 x 1080 @ 144 Hz, stereo = 0, hdr = 0
+22:16:11:346 (00003020) > [Render] ***** Additional Monitor Output Info *****
+22:16:11:346 (00003020) > [Render] 		BitsPerColor: 8
+22:16:11:346 (00003020) > [Render] 		Primaries: R=0.5898;0.3496  G=0.3301;0.5547  B=0.1533;0.1191  White-Point=0.3135;0.3291
+22:16:11:346 (00003020) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+22:16:11:346 (00003020) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+22:16:11:346 (00003020) > [Render] ******************************************
+22:16:11:346 (00003020) > [Render] 
+22:16:11:584 (00003020) > [D3D] Max supported feature level: 11.0
+22:16:11:584 (00003020) > [Render] Disabled D3D12 experimentals
+22:16:11:716 (00003020) > [Render] VMEM Budget: 3367 MB
+22:16:11:717 (00003020) > [Render] VMEM Avaialbe: 3349 MB
+22:16:11:717 (00003020) > [Render] GPU node count: 1
+22:16:11:752 (00003020) > [NxApp] PreInit successful.
+22:16:11:976 (00003020) > [NxUpscaler] DLSS init, code = 0xbad00001, info: NVSDK_NGX_Result_FAIL_FeatureNotSupported
+22:16:11:983 (00003020) > [NxApp] Querying GPU Driver Info...
+22:16:11:983 (00003020) > [NxApp] Enumerating available display adapters:
+22:16:12:011 (00003020) > [NxApp] 		NVIDIA GeForce GTX 1650 Ti (active)
+22:16:12:011 (00003020) > [NxApp] 		AMD Radeon(TM) Graphics
+22:16:12:011 (00003020) > [NxApp] Successfully found GPU Driver Info
+22:16:13:530 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:530 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:530 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:530 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:530 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:530 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:530 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:530 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:530 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:530 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:530 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:530 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:530 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:530 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:530 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:530 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:530 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:530 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:530 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:530 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:659 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:659 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:659 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:659 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:659 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:659 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:659 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:659 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:659 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:659 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:659 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:659 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:659 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:659 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:659 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:659 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:660 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:660 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:660 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:660 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:660 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:660 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:660 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:660 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:660 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:660 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:660 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:660 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:660 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:660 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:664 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:664 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:668 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:668 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:671 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:671 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:675 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:675 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:676 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:676 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:676 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:676 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:676 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:676 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:680 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:680 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:680 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:680 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:680 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:680 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:680 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:680 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:680 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:680 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:680 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:687 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:687 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:690 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:690 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:690 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:690 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:690 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:690 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:690 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:690 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:690 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:690 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:691 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:691 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:691 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:691 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:691 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:691 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:691 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:691 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:691 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:691 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:691 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:691 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:691 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:691 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:691 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:691 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:691 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:691 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:691 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:691 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:694 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:694 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:694 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:694 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:694 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:694 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:694 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:694 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:694 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:694 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:694 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:695 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:695 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:695 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:695 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:695 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:695 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:695 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:695 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:695 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:695 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:695 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:695 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:695 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:695 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:695 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:695 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:695 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:695 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:695 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:698 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:698 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:698 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:698 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:698 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:698 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:698 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:698 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:698 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:698 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:698 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:698 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:698 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:698 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:698 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:698 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:698 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:698 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:699 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:699 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:699 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:699 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:699 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:699 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:699 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:699 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:699 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:699 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:699 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:699 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:702 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:702 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:706 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:706 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:709 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:709 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:709 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:709 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:709 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:709 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:709 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:709 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:709 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:709 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:709 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:709 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:709 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:709 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:709 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:709 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:709 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:709 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:709 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:709 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:709 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:710 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:710 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:710 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:710 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:710 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:710 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:710 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:710 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:710 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:713 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:713 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:713 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:713 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:713 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:713 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:713 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:713 (00003020) > [Validate Settings] Changed upscale method.
+22:16:13:713 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:13:713 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:672 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:672 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:673 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:673 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:673 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:673 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:673 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:673 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:677 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:677 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:677 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:677 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:677 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:677 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:677 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:677 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:677 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:677 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:679 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:679 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:24:683 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:24:683 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:095 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:095 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:095 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:095 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:095 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:095 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:095 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:095 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:095 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:095 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:096 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:096 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:096 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:096 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:096 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:096 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:096 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:096 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:096 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:096 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:101 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:101 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:101 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:101 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:101 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:101 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:101 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:101 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:101 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:101 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:103 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:103 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:103 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:103 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:103 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:103 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:103 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:103 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:103 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:103 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:103 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:103 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:103 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:103 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:103 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:103 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:103 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:103 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:103 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:103 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:107 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:107 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:107 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:107 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:107 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:107 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:107 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:107 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:107 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:107 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:108 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:108 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:108 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:108 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:108 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:108 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:108 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:108 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:108 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:108 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:108 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:108 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:108 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:108 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:108 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:108 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:108 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:108 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:108 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:108 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:112 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:112 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:112 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:112 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:112 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:112 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:112 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:112 (00003020) > [Validate Settings] Changed upscale method.
+22:16:26:112 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:26:112 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:111 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:111 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:111 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:111 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:111 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:111 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:111 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:111 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:111 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:111 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:111 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:111 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:111 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:111 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:111 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:111 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:111 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:111 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:111 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:111 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:116 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:116 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:116 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:116 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:116 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:116 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:116 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:116 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:116 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:116 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:116 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:116 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:117 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:117 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:117 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:117 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:117 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:117 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:117 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:117 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:117 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:117 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:117 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:117 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:117 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:117 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:117 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:117 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:117 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:117 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:120 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:120 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:120 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:120 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:120 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:120 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:121 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:121 (00003020) > [Validate Settings] Changed upscale method.
+22:16:37:121 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:37:121 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:440 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:440 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:440 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:440 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:440 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:440 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:440 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:440 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:440 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:440 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:440 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:440 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:440 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:440 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:440 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:440 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:440 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:440 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:440 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:440 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:444 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:444 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:444 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:444 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:444 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:444 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:444 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:444 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:444 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:444 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:446 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:446 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:446 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:446 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:446 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:446 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:446 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:446 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:446 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:446 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:446 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:446 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:446 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:446 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:446 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:446 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:446 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:446 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:446 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:446 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:450 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:450 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:450 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:450 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:450 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:450 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:450 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:450 (00003020) > [Validate Settings] Changed upscale method.
+22:16:46:450 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:46:450 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:024 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:024 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:024 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:024 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:024 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:024 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:024 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:024 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:024 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:024 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:024 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:024 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:024 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:024 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:024 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:024 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:024 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:024 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:024 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:024 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:029 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:029 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:029 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:029 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:029 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:029 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:029 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:029 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:029 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:029 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:031 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:031 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:031 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:031 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:031 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:031 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:031 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:031 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:031 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:031 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:031 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:031 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:031 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:031 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:031 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:031 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:031 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:031 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:031 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:031 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:035 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:035 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:035 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:035 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:035 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:035 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:035 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:035 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:035 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:035 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:036 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:036 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:036 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:036 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:036 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:036 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:036 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:036 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:036 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:036 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:036 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:036 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:036 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:036 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:036 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:036 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:036 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:036 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:036 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:036 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:041 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:041 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:041 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:041 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:041 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:041 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:041 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:041 (00003020) > [Validate Settings] Changed upscale method.
+22:16:48:041 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:16:48:041 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:224 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:224 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:224 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:224 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:224 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:224 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:224 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:224 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:224 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:224 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:224 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:224 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:224 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:224 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:225 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:225 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:225 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:225 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:225 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:225 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:229 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:229 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:229 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:229 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:229 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:229 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:229 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:229 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:229 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:229 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:229 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:229 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:229 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:229 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:229 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:229 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:230 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:230 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:230 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:230 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:230 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:230 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:230 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:230 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:230 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:230 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:230 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:230 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:230 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:230 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:233 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:233 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:234 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:234 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:234 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:234 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:234 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:234 (00003020) > [Validate Settings] Changed upscale method.
+22:17:04:234 (00003020) > [Validate Settings] Disabling DLSS as it is not supported
+22:17:04:234 (00003020) > [Validate Settings] Changed upscale method.
+22:17:06:192 (00003020) > [NxApp] Querying GPU Driver Info...
+22:17:06:192 (00003020) > [NxApp] Enumerating available display adapters:
+22:17:06:202 (00003020) > [NxApp] 		NVIDIA GeForce GTX 1650 Ti (active)
+22:17:06:202 (00003020) > [NxApp] 		AMD Radeon(TM) Graphics
+22:17:06:202 (00003020) > [NxApp] Successfully found GPU Driver Info
+22:17:06:202 (00003020) > [NxApp] Driver Desc: NVIDIA GeForce GTX 1650 Ti
+22:17:06:202 (00003020) > [NxApp] Driver Version: 516.94
+22:17:06:202 (00003020) > [**************************************************Display + Graphics Settings**************************************************] 
+22:17:06:202 (00003020) > [Settings] DirectX Version: 12
+22:17:06:202 (00003020) > [Settings] Window mode: Exclusive fullscreen
+22:17:06:202 (00003020) > [Settings] Fullscreen display mode:
+22:17:06:202 (00003020) > [Settings] 	Displaying on monitor: 0
+22:17:06:202 (00003020) > [Settings] 	Resolution: 1920x1080
+22:17:06:202 (00003020) > [Settings] Settings Refresh rate: 144
+22:17:06:202 (00003020) > [Settings] 	OS reported Refresh rate: 144
+22:17:06:202 (00003020) > [Settings] 	VSync: Off
+22:17:06:202 (00003020) > [Settings] 	HDR: Off
+22:17:06:202 (00003020) > [Settings] 	Resolution modifier 1.000000
+22:17:06:202 (00003020) > [Settings] 	Dynamic resolution FPS target: 0
+22:17:06:202 (00003020) > [Settings] Anti aliasing: Off
+
+22:17:06:202 (00003020) > [Settings] Upscale method: None
+
+22:17:06:202 (00003020) > [Settings] Upscale quality: Quality
+
+22:17:06:202 (00003020) > [Settings] Graphics Options:
+22:17:06:202 (00003020) > [Settings] 	RT Reflections: Off
+22:17:06:202 (00003020) > [Settings] 	Texture Quality: High
+22:17:06:202 (00003020) > [Settings] 	Texture Filtering: Trilinear
+22:17:06:202 (00003020) > [Settings] 	Shadow Quality: Low
+22:17:06:202 (00003020) > [Settings] 	Depth of Field: High
+22:17:06:202 (00003020) > [Settings] 	Level of Detail: High
+22:17:06:202 (00003020) > [Settings] 	Vehicle Detail: High
+22:17:06:202 (00003020) > [Settings] 	Crowd Detail: High
+22:17:06:202 (00003020) > [Settings] 	Hair Quality: Medium
+22:17:06:202 (00003020) > [Settings] 	Ambient Occlusion: Off
+22:17:06:202 (00003020) > [Settings] 	Screen Space Reflections: Normal
+22:17:06:202 (00003020) > [Settings] 	Particle Lighting: Medium
+
+22:17:06:202 (00003020) > [Settings] 	Bloom: On
+22:17:06:202 (00003020) > [Settings] 	Vignette: Off
+22:17:06:202 (00003020) > [Settings] 	Chromatic Aberration: On
+22:17:06:202 (00003020) > [Settings] 	Motion Blur: 0.661000
+22:17:06:202 (00003020) > [Settings] 	FOV Correction: 1.000000
+22:17:06:202 (00003020) > [Settings] 	Film Grain Strength: 0.721000
+22:17:06:202 (00003020) > [Settings] 	Lens Flares: On
+22:17:06:202 (00003020) > [Settings] 	Screen Effects: On
+22:17:06:202 (00003020) > [**************************************************Display + Graphics Settings**************************************************] 
+22:17:06:202 (00003020) > [NxApp] Creating window...
+22:17:06:204 (00005672) > [GameWindow] UpdateState bVisible true
+22:17:06:215 (00005672) > [Input] Keyboard language: "English (United States)" (id: 1033)
+22:17:06:215 (00005672) > [Input] Keyboard physical layout: "US" (id: 00000409)
+22:17:06:215 (00005672) > [Input] Human Input Device  "Microsoft Input Configuration Device"   product 0 vendor 0 version 0 usage 0 usagePage 0
+22:17:06:215 (00005672) > [Input] Human Input Device  "ELAN PrecisionTouchpad Filter Driver"   product 12541 vendor 1267 version 1 usage 5 usagePage 13
+22:17:06:216 (00005672) > [Input] Human Input Device  "ELAN HID Class Filter Driver"   product 12541 vendor 1267 version 1 usage 1 usagePage 65280
+22:17:06:216 (00005672) > [Input] Human Input Device  "HID-compliant wireless radio controls"   product 1 vendor 1 version 1 usage 12 usagePage 1
+22:17:06:216 (00005672) > [Input] Joystick            ""   product 11587 vendor 6700 version 272 usage 1 usagePage 65280 xinput no
+22:17:06:216 (00005672) > [Input] Joystick            ""   product 11587 vendor 6700 version 272 usage 1 usagePage 12 xinput no
+22:17:06:216 (00005672) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+22:17:06:216 (00005672) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+22:17:06:216 (00005672) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 56
+22:17:06:216 (00005672) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+22:17:06:216 (00005672) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 7 subType 0 mode 1 function 12 indicators 3 total 101
+22:17:06:216 (00005672) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 3 sampleRate 0 horizontalWheel no
+22:17:06:216 (00005672) > [Input] Mouse               "ELAN Input Device"   id 128 buttons 2 sampleRate 0 horizontalWheel no
+22:17:06:234 (00005672) > [Input] Using LibScePad
+22:17:06:235 (00005672) > [XInput] Enumerating available xusb hid devices:
+
+22:17:06:241 (00003020) > [NxApp] Window created.
+22:17:06:241 (00003020) > [NxApp] Initializing swapchain...
+22:17:06:242 (00001976) > [SwapChain] Creating...
+22:17:06:242 (00001976) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+22:17:06:300 (00001976) > [DXGI] Created swapchain.
+22:17:06:315 (00001976) > [DXGI] Set-up exclusive fullscreen 
+22:17:06:316 (00001976) > [NxDXGI] Creating exclusive fullscreen swapchain with refresh rate 144
+22:17:06:389 (00001976) > [SwapChain] Successfully created.
+22:17:06:389 (00001976) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+22:17:06:389 (00003020) > [NxApp] Swapchain initialized
+22:17:06:389 (00003020) > [NxApp] Initializing renderer...
+22:17:06:389 (00003020) > [NxApp] Renderer initialized
+22:17:06:392 (00003020) > [Render] No support for DXR 1.1, raytracing will be disabled!
+22:17:06:443 (00003020) > [Render] File cache.pso contains 8933 pipelines and 0 duplicates
+22:17:06:444 (00003020) > [Render] File C:\Users\<username>\AppData\Roaming\Insomniac Games\Marvel's Spider-Man Remastered\\cache.pso contains 12 pipelines and 0 duplicates
+22:17:06:444 (00003020) > [Render] Support for Shader Model 6.6: Yes
+22:17:06:444 (00003020) > [Render] Is UMA: No Is Cache Coherent: No
+22:17:06:444 (00003020) > [Render] Using Cpu Buffer Optimize: Yes
+22:17:09:832 (00001976) > [NxSwapChainImpl] Exclusive fullscreen change caused swapchain resize: exclusive to non
+22:17:09:832 (00001976) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+22:17:09:832 (00001976) > [NxDXGI] Resizing exclusive fullscreen swapchain with refresh rate 144
+22:17:09:866 (00001976) > [DXGI] Set-up non exclusive fullscreen.
+22:17:09:915 (00010152) > [GameWindow] UpdateState bVisible true
+22:17:09:917 (00010152) > [GameWindow] Invalidating rects.
+22:17:09:917 (00010152) > [Settings] New display settings are:
+22:17:09:918 (00010152) > [**************************************************Display + Graphics Settings**************************************************] 
+22:17:09:918 (00010152) > [Settings] DirectX Version: 12
+22:17:09:918 (00010152) > [Settings] Window mode: Fullscreen
+22:17:09:918 (00010152) > [Settings] Fullscreen display mode:
+22:17:09:918 (00010152) > [Settings] 	Displaying on monitor: 0
+22:17:09:918 (00010152) > [Settings] 	Resolution: 1920x1080
+22:17:09:919 (00010152) > [Settings] 	OS reported Refresh rate: 144
+22:17:09:919 (00010152) > [Settings] 	VSync: Off
+22:17:09:919 (00010152) > [Settings] 	HDR: Off
+22:17:09:919 (00010152) > [Settings] 	Resolution modifier 1.000000
+22:17:09:919 (00010152) > [Settings] 	Dynamic resolution FPS target: 0
+22:17:09:919 (00010152) > [Settings] Anti aliasing: Off
+
+22:17:09:919 (00010152) > [Settings] Upscale method: None
+
+22:17:09:919 (00010152) > [Settings] Upscale quality: Quality
+
+22:17:09:919 (00010152) > [Settings] Graphics Options:
+22:17:09:919 (00010152) > [Settings] 	RT Reflections: Off
+22:17:09:919 (00010152) > [Settings] 	Texture Quality: High
+22:17:09:919 (00010152) > [Settings] 	Texture Filtering: Trilinear
+22:17:09:919 (00010152) > [Settings] 	Shadow Quality: Low
+22:17:09:919 (00010152) > [Settings] 	Depth of Field: High
+22:17:09:919 (00010152) > [Settings] 	Level of Detail: High
+22:17:09:919 (00010152) > [Settings] 	Vehicle Detail: High
+22:17:09:919 (00010152) > [Settings] 	Crowd Detail: High
+22:17:09:919 (00010152) > [Settings] 	Hair Quality: Medium
+22:17:09:919 (00010152) > [Settings] 	Ambient Occlusion: Off
+22:17:09:919 (00010152) > [Settings] 	Screen Space Reflections: Normal
+22:17:09:919 (00010152) > [Settings] 	Particle Lighting: Medium
+
+22:17:09:919 (00010152) > [Settings] 	Bloom: On
+22:17:09:919 (00010152) > [Settings] 	Vignette: Off
+22:17:09:919 (00010152) > [Settings] 	Chromatic Aberration: On
+22:17:09:919 (00010152) > [Settings] 	Motion Blur: 0.661000
+22:17:09:919 (00010152) > [Settings] 	FOV Correction: 1.000000
+22:17:09:919 (00010152) > [Settings] 	Film Grain Strength: 0.721000
+22:17:09:919 (00010152) > [Settings] 	Lens Flares: On
+22:17:09:919 (00010152) > [Settings] 	Screen Effects: On
+22:17:09:919 (00010152) > [**************************************************Display + Graphics Settings**************************************************] 
+22:17:09:919 (00010152) > [Settings] End of settings.
+22:17:09:919 (00010152) > [NxApp (Render Thread)] Finished enforcing display settings
+22:17:09:920 (00003020) > [NxApp] Finished enforcing display settings
+22:17:16:184 (00006848) > [Audio] Device (re)initialized 0x0 'Headphone (Realtek(R) Audio)'
+22:17:16:189 (00006848) > [Audio] Device removed 0x0
+22:17:16:226 (00006848) > [Audio] Device (re)initialized 0x0 'Headphone (Realtek(R) Audio)'
+22:17:16:243 (00008588) > [Save] Request type 3 failed with code 0x00000002
+22:17:16:273 (00003020) > [Save] Request load save type -1, control 128, target -1
+22:17:16:275 (00008588) > [Save] Request type 3 failed with code 0x00000002
+22:17:16:288 (00008588) > [Save] Request type 3 failed with code 0x00000002
+22:17:16:308 (00003020) > [Save] Request load save type 0, control 128, target -1
+22:17:17:436 (00008588) > [Save] Request type 3 failed with code 0x00000002
+22:17:17:449 (00003020) > [Save] Request load save type 0, control 128, target -1
+22:17:17:463 (00008588) > [Save] Request type 3 failed with code 0x00000002
+22:17:17:478 (00003020) > [Save] Request load save type 0, control 128, target -1
+22:17:17:492 (00008588) > [Save] Request type 3 failed with code 0x00000002
+22:17:17:506 (00003020) > [Save] Request load save type 0, control 128, target -1
+22:17:18:040 (00006848) > [Audio] Device (re)initialized 0x0 'Headphone (Realtek(R) Audio)'
+22:17:18:042 (00008588) > [Save] Request type 3 failed with code 0x00000002
+22:17:18:055 (00003020) > [Save] Request load save type 0, control 128, target -1
+22:17:18:055 (00006848) > [Audio] Device removed 0x0
+22:17:18:068 (00008588) > [Save] Request type 3 failed with code 0x00000002
+22:17:18:076 (00006848) > [Audio] Device (re)initialized 0x0 'Headphone (Realtek(R) Audio)'
+22:17:26:656 (00006848) > [Audio] Device (re)initialized 0x0 'Headphone (Realtek(R) Audio)'
+22:17:28:985 (00003020) > [Save] Request load save type 0, control 128, target -1
+22:17:30:177 (00003020) > [Save] Request save type 2, control 0
+22:17:50:351 (00006848) > [Audio] Device (re)initialized 0x0 'Headphone (Realtek(R) Audio)'
+22:18:31:621 (00003020) > [Save] Request save type 0, control 0
+22:18:31:625 (00003020) > [Save] Request save type 0, control 0
+22:18:31:740 (00003020) > [Save] Request save type 0, control 0
+22:18:51:853 (00003020) > [Save] Request save type 0, control 0
+22:18:51:889 (00003020) > [Save] Request save type 0, control 0
+22:19:51:965 (00003020) > [Save] Request save type 0, control 0
+22:20:00:294 (00003020) > [Save] Request save type 0, control 0
+22:24:34:731 (00003020) > [Save] Request save type 0, control 0
+22:24:34:734 (00003020) > [Save] Request save type 0, control 0
+22:24:34:735 (00003020) > [Save] Request save type 0, control 0
+22:24:34:735 (00003020) > [Save] Request save type 0, control 0
+22:25:04:932 (00003020) > [Save] Request save type 0, control 0
+22:25:04:932 (00003020) > [Save] Request save type 0, control 0
+22:25:04:936 (00003020) > [Save] Request save type 0, control 0
+22:25:30:241 (00003020) > [Save] Request save type 0, control 0
+22:25:30:241 (00003020) > [Save] Request save type 0, control 0
+22:25:30:242 (00003020) > [Save] Request save type 0, control 0
+22:25:51:562 (00003020) > [Save] Request save type 0, control 0
+22:25:51:562 (00003020) > [Save] Request save type 0, control 0
+22:25:51:638 (00003020) > [Save] Request save type 0, control 0
+22:25:57:897 (00003020) > [Save] Request save type 0, control 0
+22:25:57:897 (00003020) > [Save] Request save type 0, control 0
+22:25:57:910 (00003020) > [Save] Request save type 0, control 0
+22:26:11:274 (00003020) > [Save] Request save type 0, control 0
+22:26:11:275 (00003020) > [Save] Request save type 0, control 0
+22:26:11:276 (00003020) > [Save] Request save type 0, control 0
+22:27:03:769 (00003020) > [Save] Request save type 0, control 0
+22:27:03:773 (00003020) > [Save] Request save type 0, control 0
+22:27:03:774 (00003020) > [Save] Request save type 0, control 0
+22:27:18:312 (00003020) > [Save] Request save type 0, control 0
+22:27:18:312 (00003020) > [Save] Request save type 0, control 0
+22:27:18:312 (00003020) > [Save] Request save type 0, control 0
+22:28:14:749 (00003020) > [Save] Request save type 0, control 0
+22:28:14:750 (00003020) > [Save] Request save type 0, control 0
+22:28:14:781 (00003020) > [Save] Request save type 0, control 0
+22:29:17:208 (00003020) > [Save] Request save type 0, control 256
+22:29:17:231 (00003020) > [Save] Request save type 0, control 0
+22:29:40:972 (00003020) > [Save] Request save type 0, control 0
+22:34:27:350 (00003020) > [Save] Request save type 0, control 0
+22:34:27:351 (00003020) > [Save] Request save type 0, control 0
+22:34:27:352 (00003020) > [Save] Request save type 0, control 0
+22:34:27:353 (00003020) > [Save] Request save type 0, control 0
+22:34:53:293 (00003020) > [Save] Request save type 0, control 0
+22:34:53:293 (00003020) > [Save] Request save type 0, control 0
+22:34:53:363 (00003020) > [Save] Request save type 0, control 0
+22:35:18:441 (00003020) > [Save] Request save type 0, control 0
+22:35:18:441 (00003020) > [Save] Request save type 0, control 0
+22:35:18:442 (00003020) > [Save] Request save type 0, control 0
+22:35:39:011 (00003020) > [Save] Request save type 0, control 0
+22:35:39:011 (00003020) > [Save] Request save type 0, control 0
+22:35:39:011 (00003020) > [Save] Request save type 0, control 0
+22:35:44:108 (00003020) > [Save] Request save type 0, control 0
+22:35:44:109 (00003020) > [Save] Request save type 0, control 0
+22:35:44:129 (00003020) > [Save] Request save type 0, control 0
+22:36:06:006 (00003020) > [Save] Request save type 0, control 0
+22:36:06:006 (00003020) > [Save] Request save type 0, control 0
+22:36:06:020 (00003020) > [Save] Request save type 0, control 0
+22:36:43:079 (00003020) > [Save] Request save type 0, control 0
+22:36:43:080 (00003020) > [Save] Request save type 0, control 0
+22:36:43:080 (00003020) > [Save] Request save type 0, control 0
+22:36:49:429 (00003020) > [Save] Request save type 0, control 0
+22:36:49:430 (00003020) > [Save] Request save type 0, control 0
+22:36:49:467 (00003020) > [Save] Request save type 0, control 0
+22:37:25:351 (00003020) > [Save] Request save type 0, control 0
+22:37:25:351 (00003020) > [Save] Request save type 0, control 0
+22:37:25:387 (00003020) > [Save] Request save type 0, control 0
+22:37:32:623 (00006848) > [Audio] Device (re)initialized 0x0 'Headphone (Realtek(R) Audio)'
+22:37:42:482 (00003020) > [Save] Request save type 0, control 0
+22:37:42:482 (00003020) > [Save] Request save type 0, control 0
+22:37:42:483 (00003020) > [Save] Request save type 0, control 0
+22:37:53:508 (00003020) > [Save] Request save type 0, control 0
+22:37:53:508 (00003020) > [Save] Request save type 0, control 0
+22:37:53:508 (00003020) > [Save] Request save type 0, control 0
+22:38:02:750 (00003020) > [Save] Request save type 0, control 0
+22:38:02:751 (00003020) > [Save] Request save type 0, control 0
+22:38:02:752 (00003020) > [Save] Request save type 0, control 0
+22:38:09:906 (00006848) > [Audio] Device (re)initialized 0x0 'Headphone (Realtek(R) Audio)'
+22:38:40:773 (00003020) > [Save] Request save type 0, control 0
+22:38:40:773 (00003020) > [Save] Request save type 0, control 0
+22:38:40:773 (00003020) > [Save] Request save type 0, control 0
+22:38:42:305 (00003020) > [Save] Request save type 0, control 0
+22:38:45:040 (00003020) > [Save] Request save type 0, control 0
+22:40:33:061 (00003020) > [Save] Request save type 0, control 0
+22:40:33:062 (00003020) > [Save] Request save type 0, control 0
+22:40:33:062 (00003020) > [Save] Request save type 0, control 0
+22:40:33:062 (00003020) > [Save] Request save type 0, control 0
+22:40:37:741 (00003020) > [Save] Request save type 0, control 0
+22:40:37:741 (00003020) > [Save] Request save type 0, control 0
+22:40:37:743 (00003020) > [Save] Request save type 0, control 0
+22:41:05:112 (00003020) > [Save] Request save type 0, control 0
+22:41:05:113 (00003020) > [Save] Request save type 0, control 0
+22:41:05:113 (00003020) > [Save] Request save type 0, control 0
+22:41:37:001 (00003020) > [Save] Request save type 0, control 0
+22:41:37:002 (00003020) > [Save] Request save type 0, control 0
+22:41:37:025 (00003020) > [Save] Request save type 0, control 0
+22:42:18:643 (00006848) > [Audio] Device removed 0x0
+22:42:20:793 (00003020) > [NxApp] Destroying
+22:42:20:798 (00003020) > [DXGI] Destroyed swapchain.
+22:42:20:798 (00003020) > [SwapChain] Destroyed.
+22:42:20:798 (00003020) > [SwapChain] Released.
+22:42:20:798 (00003020) > [Render] Unloading NVAPI
+22:42:20:801 (00003020) > [Render] Done unloading NVAPI
+22:42:20:801 (00003020) > [Render] Unloading ADL...
+22:42:20:818 (00003020) > [Render] Done unloading ADL
+22:42:20:833 (00003020) > [DXGI] Destroyed swapchain.
+22:42:20:833 (00003020) > [DXGI] Released.
+--- NIXXES log closed ---
